@@ -78,5 +78,5 @@ for i in range(0,length):
     path='/public/home/yels/project/CASP/CASP13/casp13_feature_s2/mtx/'+target+'.npy'
     np.save(path,mtx)
          
-
+###########123###########
 
