@@ -43,5 +43,5 @@ for i in range(0,length):
     print(C.shape)
     path1='/public/home/yels/project/CASP/CASP10/casp10_feature_s2/cluster/'+target+'.npy'
     np.save(path1,C)
-
+#####123#####
 
